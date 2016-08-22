@@ -1,1 +1,1 @@
-scenario,apigetProvince_Success,/platform/api?method=admin.getProvince&appKey=ANDROID_LEMON_XYSQ&version=1.0listNearbyCoupon_Success,/platform/api?appKey=ANDROID_KCOUPON&currentPage=1&method=issue.listNewCoupon&pageSize=20getIOSVersion_Success,/platform/api?appKey=ANDROID_LEMON_XYSQ&version=1.0&method=admin.getIOSVersiongetExistNth_fail,/platform/api2?method=ooxx
+scenario,apilogin_Success,/User/Login?account=13249794070&password=123456
